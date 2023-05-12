@@ -1,0 +1,22 @@
+
+
+.mySlides {display:none;}
+
+body{margin: 10px; 
+  background-color: black; 
+  color: grey; 
+  font-family: monospace; 
+}   
+h1{font-size: 350%;
+font-family: 'Baloo', cursive;}
+.obit > p{text-align: justify;
+margin: 40px;}
+
+img{
+  width: 100px;
+}
+
+
+footer{
+  font-size: 20px;
+text-align: center;}
